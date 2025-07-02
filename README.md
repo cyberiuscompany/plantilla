@@ -17,11 +17,10 @@ Esplicación que hace la herramienta.
 ---
 
 <p align="center">
-  <img src="icono-de-la-herramienta.png" alt="Banner" width="500"/>
+  <img src="icono.png" alt="Banner" width="500"/>
 </p
 
 ---
-
 
 ## 🎥 Demostración
 
