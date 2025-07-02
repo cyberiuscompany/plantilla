@@ -78,12 +78,13 @@ Diseñada con un enfoque de ciberseguridad para......RELLENAR.
 
 ## 📄 Documentación adicional
 
-- [🔐 Seguridad](.github/SECURITY.md)
-- [📜 Licencia](LICENSE)
 - [🤝 Código de Conducta](.github/CODE_OF_CONDUCT.md)
 - [📬 Cómo contribuir](.github/CONTRIBUTING.md)
-- [📢 Soporte](.github/SUPPORT.md)
+- [🔐 Seguridad](.github/SECURITY.md)
 - [⚠️ Aviso legal](DISCLAIMER.md)
+- [📜 Licencia](LICENSE)
+- [📢 Soporte](.github/SUPPORT.md)
+
 
 ---
 
