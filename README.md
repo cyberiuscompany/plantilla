@@ -24,19 +24,19 @@ Esplicación que hace la herramienta.
 
 ## Fotos de Herramienta
 
-<h2 align="center">Menú Principal</h2>
+<h2 align="center">Foto 1</h2>
 <p align="center">
-  <img src="Foto1" alt="Menú Principal" width="500"/>
+  <img src="Foto1" alt="Foto 1" width="500"/>
 </p>
 
-<h2 align="center">Opción Página Web</h2>
+<h2 align="center">Foto 2</h2>
 <p align="center">
-  <img src="Foto2" alt="Opción Página Web" width="500"/>
+  <img src="Foto2" alt="Foto 2" width="500"/>
 </p>
 
-<h2 align="center">Opciones de Segundo Plano</h2>
+<h2 align="center">Foto 3</h2>
 <p align="center">
-  <img src="Foto3" alt="Opciones Segundo Plano" width="500"/>
+  <img src="Foto3" alt="Foto 3" width="500"/>
 </p>
 
 
