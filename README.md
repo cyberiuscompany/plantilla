@@ -92,8 +92,8 @@ Diseñada con un enfoque de ciberseguridad para......RELLENAR.
 ```bash
 git clone..........
 cd NOMBRE-HERRAMIENTA
-python -m venv venv
-.\venv\Scripts\activate
+python -m venv venv (No es obligatorio este comando)
+.\venv\Scripts\activate (No es obligatorio este comando)
 pip install -r requirements.txt
 python NOMBRE-HERRAMIENTA
 ```
@@ -103,8 +103,8 @@ python NOMBRE-HERRAMIENTA
 ```bash
 git clone..........
 cd NOMBRE-HERRAMIENTA
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv venv (No es obligatorio este comando)
+source venv/bin/activate (No es obligatorio este comando)
 pip install -r requirements.txt
 python3 NOMBRE-HERRAMIENTA
 ```
@@ -114,8 +114,8 @@ python3 NOMBRE-HERRAMIENTA
 ```bash
 git clone..........
 cd NOMBRE-HERRAMIENTA
-python3 -m venv venv
-source venv/bin/activate
+python3 -m venv venv (No es obligatorio este comando)
+source venv/bin/activate (No es obligatorio este comando)
 pip install -r requirements.txt
 pip install .
 NOMBRE-HERRAMIENTA
