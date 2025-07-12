@@ -22,6 +22,21 @@
   </a>
 </p>
 
+<p align="center">
+  <sub>
+    <a href="https://github.com/cyberiuscompany/CyMetadater">CyMetadater</a> —
+    <a href="https://github.com/cyberiuscompany/CyCamaraViewer">CyCamaraViewer</a> —
+    <a href="https://github.com/cyberiuscompany/CyPasswordGenerator">CyPasswordGen</a> —
+    <a href="https://github.com/cyberiuscompany/CyDoxer">CyDoxer</a> —
+    <a href="https://github.com/cyberiuscompany/CyGeolocalizator">CyGeolocalizator</a> —
+    <a href="https://github.com/cyberiuscompany/CyUSBGuard">CyUSBGuard</a> —
+    <a href="https://github.com/cyberiuscompany/CyDorker">CyDorker</a> —
+    <a href="https://github.com/cyberiuscompany/Navegator_Inspec">Navegator_Inspec</a> —
+    <a href="https://github.com/cyberiuscompany/Perm_Scope">Perm_Scope</a>
+  </sub>
+</p>
+
+
 
 # Plantilla
 Este es la plantilla que utilizo para la creación de mis proyectos/herramientas de ciberseguridad
