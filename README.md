@@ -8,21 +8,6 @@
 ![Tested on](https://img.shields.io/badge/tested%20on-Windows%2010%2F11%20%7C%20Ubuntu%2022.04-blue)
 
 <p align="center">
-  <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
-  <strong>Español</strong>
-  &nbsp;|&nbsp;
-  <a href="README.en.md">
-    <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
-    <strong>English</strong>
-  </a>
-  &nbsp;|&nbsp;
-  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1&pp=ygUTcmljayByb2xsaW5nIG5vIGFkc6AHAQ%3D%3D">
-    <img src="https://flagcdn.com/w40/jp.png" alt="日本語" title="Japanese">
-    <strong>日本語</strong>
-  </a>
-</p>
-
-<p align="center">
   <sub>
     <a href="https://github.com/cyberiuscompany/CyMetadater">CyMetadater</a> —
     <a href="https://github.com/cyberiuscompany/CyCamaraViewer">CyCamaraViewer</a> —
@@ -37,7 +22,20 @@
   </sub>
 </p>
 
-
+<p align="center">
+  <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
+  <strong>Español</strong>
+  &nbsp;|&nbsp;
+  <a href="README.en.md">
+    <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
+    <strong>English</strong>
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.youtube.com/watch?v=xvFZjo5PgG0&list=RDxvFZjo5PgG0&start_radio=1&pp=ygUTcmljayByb2xsaW5nIG5vIGFkc6AHAQ%3D%3D">
+    <img src="https://flagcdn.com/w40/jp.png" alt="日本語" title="Japanese">
+    <strong>日本語</strong>
+  </a>
+</p>
 
 # Plantilla
 Este es la plantilla que utilizo para la creación de mis proyectos/herramientas de ciberseguridad
