@@ -12,7 +12,7 @@
   <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
   <strong>English</strong>
   &nbsp;|&nbsp;
-  <a href="https://github.com/cyberiuscompany/plantilla/tree/main">
+  <a href="https://github.com/cyberiuscompany/plantilla">
     <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
     <strong>Español</strong>
   </a>
