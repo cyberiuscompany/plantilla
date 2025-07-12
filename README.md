@@ -33,6 +33,7 @@
     <a href="https://github.com/cyberiuscompany/CyDorker">CyDorker</a> —
     <a href="https://github.com/cyberiuscompany/Navegator_Inspec">Navegator_Inspec</a> —
     <a href="https://github.com/cyberiuscompany/Perm_Scope">Perm_Scope</a>
+    <a href="https://github.com/cyberiuscompany/Cyberius-Unzip-Cracker">Cyberius-Unzip-Cracker</a>
   </sub>
 </p>
 
