@@ -9,6 +9,20 @@
 ![Tested on](https://img.shields.io/badge/tested%20on-Windows%2010%2F11%20%7C%20Ubuntu%2022.04-blue)
 
 <p align="center">
+  <sub>
+    <a href="https://github.com/cyberiuscompany/CyMetadater">CyMetadater</a> —
+    <a href="https://github.com/cyberiuscompany/CyCamaraViewer">CyCamaraViewer</a> —
+    <a href="https://github.com/cyberiuscompany/CyPasswordGenerator">CyPasswordGen</a> —
+    <a href="https://github.com/cyberiuscompany/CyDoxer">CyDoxer</a> —
+    <a href="https://github.com/cyberiuscompany/CyGeolocalizator">CyGeolocalizator</a> —
+    <a href="https://github.com/cyberiuscompany/CyUSBGuard">CyUSBGuard</a> —
+    <a href="https://github.com/cyberiuscompany/CyDorker">CyDorker</a> —
+    <a href="https://github.com/cyberiuscompany/Navegator_Inspec">Navegator_Inspec</a> —
+    <a href="https://github.com/cyberiuscompany/Perm_Scope">Perm_Scope</a>
+  </sub>
+</p>
+
+<p align="center">
   <a href="https://github.com/cyberiuscompany/plantilla">
     <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
     <strong>Español</strong>
@@ -21,20 +35,6 @@
     <img src="https://flagcdn.com/w40/jp.png" alt="日本語" title="Japanese">
     <strong>日本語</strong>
   </a>
-</p>
-
-<p align="center">
-  <sub>
-    <a href="https://github.com/cyberiuscompany/CyMetadater">CyMetadater</a> —
-    <a href="https://github.com/cyberiuscompany/CyCamaraViewer">CyCamaraViewer</a> —
-    <a href="https://github.com/cyberiuscompany/CyPasswordGenerator">CyPasswordGen</a> —
-    <a href="https://github.com/cyberiuscompany/CyDoxer">CyDoxer</a> —
-    <a href="https://github.com/cyberiuscompany/CyGeolocalizator">CyGeolocalizator</a> —
-    <a href="https://github.com/cyberiuscompany/CyUSBGuard">CyUSBGuard</a> —
-    <a href="https://github.com/cyberiuscompany/CyDorker">CyDorker</a> —
-    <a href="https://github.com/cyberiuscompany/Navegator_Inspec">Navegator_Inspec</a> —
-    <a href="https://github.com/cyberiuscompany/Perm_Scope">Perm_Scope</a>
-  </sub>
 </p>
 
 # Template
