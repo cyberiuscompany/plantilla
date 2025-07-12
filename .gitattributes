@@ -1,5 +1,5 @@
 # ==============================
-# 🧠 Forzar reconocimiento de lenguajes
+# 🧠 Forzar reconocimiento de lenguajes comunes
 # ==============================
 
 *.html          linguist-language=HTML
@@ -11,13 +11,68 @@
 *.md            linguist-language=Markdown
 *.py            linguist-language=Python
 *.sh            linguist-language=Shell
+*.bash          linguist-language=Shell
+*.zsh           linguist-language=Shell
 *.bat           linguist-language=Batchfile
 *.ps1           linguist-language=PowerShell
 *.yml           linguist-language=YAML
 *.yaml          linguist-language=YAML
+*.ini           linguist-language=INI
+*.conf          linguist-language=INI
+*.cfg           linguist-language=INI
+*.env           linguist-language=INI
+*.toml          linguist-language=TOML
+*.editorconfig  linguist-language=INI
+
+# C y C++
+*.c             linguist-language=C
+*.cpp           linguist-language=C++
+*.cxx           linguist-language=C++
+*.cc            linguist-language=C++
+*.h             linguist-language=C
+*.hpp           linguist-language=C++
+*.hh            linguist-language=C++
+
+# C#
+*.cs            linguist-language=C#
+
+# Java
+*.java          linguist-language=Java
+*.class         linguist-language=Java
+
+# .NET y derivados
+*.csproj        linguist-language=XML
+*.sln           linguist-language=Text
+*.vb            linguist-language=Visual Basic
+
+# Ruby
+*.rb            linguist-language=Ruby
+*.erb           linguist-language=HTML
+
+# PHP
+*.php           linguist-language=PHP
+
+# Go
+*.go            linguist-language=Go
+
+# Rust
+*.rs            linguist-language=Rust
+
+# Swift
+*.swift         linguist-language=Swift
+
+# Kotlin
+*.kt            linguist-language=Kotlin
+*.kts           linguist-language=Kotlin
+
+# Lua
+*.lua           linguist-language=Lua
+
+# Dart
+*.dart          linguist-language=Dart
 
 # ==============================
-# 📁 Tratar recursos como documentación (no código)
+# 📁 Documentación y medios (no código)
 # ==============================
 
 *.png           linguist-documentation
@@ -30,49 +85,41 @@
 *.webm          linguist-documentation
 *.pdf           linguist-documentation
 *.zip           linguist-documentation
+*.log           linguist-documentation
+logs/*          linguist-documentation
+*.db            linguist-documentation
 
 # ==============================
-# 🧾 Tratar archivos planos como datos
+# 📊 Archivos de datos
 # ==============================
 
 *.csv           linguist-language=CSV
 *.txt           linguist-language=Text
-*.log           linguist-documentation
-*.db            linguist-documentation
 
 # ==============================
-# 🚀 Scripts y ejecutables (marcar como Shell o similares)
+# 🚀 Scripts ejecutables
 # ==============================
 
-*.bash          linguist-language=Shell
-*.zsh           linguist-language=Shell
 *.command       linguist-language=Shell
-*.env           linguist-language=INI
 
 # ==============================
-# 🧱 Ficheros de configuración
+# 🐳 Docker / DevOps
 # ==============================
 
+Dockerfile      linguist-language=Dockerfile
 .Dockerfile     linguist-language=Dockerfile
-*.conf          linguist-language=INI
-*.cfg           linguist-language=INI
-*.ini           linguist-language=INI
-*.toml          linguist-language=TOML
-*.editorconfig  linguist-language=INI
 
 # ==============================
-# 🧪 Ignorar resultados o ficheros generados
+# 🧪 Archivos generados a ignorar
 # ==============================
 
-*.log           linguist-documentation
-logs/*          linguist-documentation
 *.pyc           linguist-generated
 __pycache__/*   linguist-generated
 *.lock          linguist-generated
 node_modules/*  linguist-generated
 
 # ==============================
-# 🔐 Seguridad (marcar como texto plano para evitar escaneos erróneos)
+# 🔐 Archivos sensibles (texto plano)
 # ==============================
 
 *.key           linguist-language=Text
@@ -80,7 +127,7 @@ node_modules/*  linguist-generated
 *.crt           linguist-language=Text
 
 # ==============================
-# 📌 Forzar lenguaje por directorio
+# 📌 Reglas por directorio (ajustable)
 # ==============================
 
 /frontend/*     linguist-language=JavaScript
