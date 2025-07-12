@@ -9,12 +9,12 @@
 ![Tested on](https://img.shields.io/badge/tested%20on-Windows%2010%2F11%20%7C%20Ubuntu%2022.04-blue)
 
 <p align="center">
-  <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
-  <strong>Español</strong>
+  <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
+  <strong>English</strong>
   &nbsp;|&nbsp;
-  <a href="README.en.md">
-    <img src="https://flagcdn.com/w40/us.png" alt="English" title="English">
-    <strong>English</strong>
+  <a href="README.md">
+    <img src="https://flagcdn.com/w40/es.png" alt="Español" title="Español">
+    <strong>Español</strong>
   </a>
 </p>
 
